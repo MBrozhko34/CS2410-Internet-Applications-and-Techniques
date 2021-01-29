@@ -11,5 +11,9 @@
     "url": "CS2410-Internet-Applications-and-Techniques"
   },
   "author": "Michael",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
 }
